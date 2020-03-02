@@ -14,7 +14,10 @@ blah blah blah blah
 #### Esquemas eléctricos o electrónicos
 _tarea del diseñador_
 #### Prototipo 
-- Breadboard (_tarea del diseñador_)
+- Breadboard 
+![alt text](https://github.com/carolinall/repo_Ardinautas/blob/master/PICTORICO.jpg)
+![alt text](https://github.com/carolinall/repo_Ardinautas/blob/master/Esquematico.jpg)
+![alt text](https://github.com/carolinall/repo_Ardinautas/blob/master/PCB.jpg)
 - Modelo 3D (_tarea del diseñador_)
 #### Planos de construcción
 _tarea del diseñador_
